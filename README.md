@@ -4,17 +4,17 @@ Nessa aplicação, permitimos que o usuário busque por seus livros favoritos e 
 
 ## Tecnologias Utilizadas 🛠️
 
-![Git]
-![GitHub]
-![API]
-![Java]
-![Spring Boot]
-![PostgreSQL]
+- Git
+- GitHub
+- API
+- Java
+- Spring Boot
+- PostgreSQL
 
 ## Instalação e Execução 🚀
 
 ### Pré-requisitos
-- ![Java]
-- ![Maven]
-- ![PostgreSQL]
-- ![Git]
+- Java
+- Maven
+- PostgreSQL
+- Git
